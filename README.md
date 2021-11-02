@@ -16,7 +16,7 @@ Date : 2021-07-19 ~ 2021-10-29
 <br>
 
 ### Methods Used
-- Usecase 분석 기획 
+- Usecase Analysis Planning
 - Data Collection
 - Data Processing/Cleaning 
 - Exploratory data analysis
