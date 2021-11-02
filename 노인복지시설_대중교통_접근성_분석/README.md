@@ -19,3 +19,5 @@
 ### 산출물
 - 데이터 전처리
 - [보고서 URL](https://data.molit.go.kr/dataservice/data-usecase/3004?page=1&searchText=&viewType=view)
+
+![결과](https://user-images.githubusercontent.com/49083528/139795300-c0da720e-d15d-4c99-8af8-4341dab45083.png)
