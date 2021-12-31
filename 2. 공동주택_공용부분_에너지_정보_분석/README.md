@@ -7,7 +7,7 @@
 <br>
 
 ### 산출물
-- [데이터 전처리](https://github.com/sihyeon3523/Molit-2021-Second-half/tree/main/2.%20%EA%B3%B5%EB%8F%99%EC%A3%BC%ED%83%9D_%EA%B3%B5%EC%9A%A9%EB%B6%80%EB%B6%84_%EC%97%90%EB%84%88%EC%A7%80_%EC%A0%95%EB%B3%B4_%EB%B6%84%EC%84%9D/%EC%BD%94%EB%93%9CC)
+- [데이터 전처리](https://github.com/sihyeon3523/Molit-2021-Second-half/tree/main/2.%20%EA%B3%B5%EB%8F%99%EC%A3%BC%ED%83%9D_%EA%B3%B5%EC%9A%A9%EB%B6%80%EB%B6%84_%EC%97%90%EB%84%88%EC%A7%80_%EC%A0%95%EB%B3%B4_%EB%B6%84%EC%84%9D/%EC%BD%94%EB%93%9C)
 - [보고서 URL](https://data.molit.go.kr/dataservice/data-usecase/3391?page=1&searchText=&viewType=view)
 
 ![결과](https://user-images.githubusercontent.com/49083528/147804651-730638aa-bc6f-49a2-ac87-ea5222dd0d22.jpg)
