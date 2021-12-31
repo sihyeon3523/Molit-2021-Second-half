@@ -7,6 +7,13 @@
 - 특이 사항 : 보고서 제작 완료 후 내부 검토 중, 산출물 및 코드 공개 불가 
 <br>
 
+### 산출물
+- [데이터 전처리](https://github.com/sihyeon3523/Molit-2021-Second-half/tree/main/1.%20%EB%85%B8%EC%9D%B8%EB%B3%B5%EC%A7%80%EC%8B%9C%EC%84%A4_%EB%8C%80%EC%A4%91%EA%B5%90%ED%86%B5_%EC%A0%91%EA%B7%BC%EC%84%B1_%EB%B6%84%EC%84%9D/%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%A0%84%EC%B2%98%EB%A6%AC)
+- [보고서 URL](https://data.molit.go.kr/dataservice/data-usecase/3391?page=1&searchText=&viewType=view)
+
+![결과](https://user-images.githubusercontent.com/49083528/139795300-c0da720e-d15d-4c99-8af8-4341dab45083.png)
+<br>
+
 ### 활용 데이터
 | 데이터셋                  | 설명                                       | 형태        | 데이터 출처                          |
 | ------------------------- | ------------------------------------------ | ----------- | ------------------------------------ |
